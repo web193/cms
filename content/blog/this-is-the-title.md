@@ -10,4 +10,4 @@ description: this is no description
 
 # This is another try.
 
-![](assets/cute-monkey-cartoon-chimp-animal-set_125446-79.jpg "Monkey fun!")
+![](assets/wall-murals-playful-monkeys-near-the-banana-plant.jpg.jpg "Monkey fun!")
