@@ -2,7 +2,7 @@
 path: blog
 date: 2020-06-03T17:56:29.224Z
 title: This is pic
-description: this is no description
+description: this is description
 ---
 ```
 1234
