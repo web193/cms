@@ -2,7 +2,7 @@ backend:
   name: github
   repo: web193/cms
 
-media_folder: assets
+media_folder: static/assets
 public_folder: assets
 
 collections:
