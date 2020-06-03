@@ -10,4 +10,4 @@ description: this is no description
 
 # This is another try.
 
-![](assets/screen-shot-2020-04-29-at-3.45.21-pm.png "Monkey fun!")
+![](assets/66b4f238592f95c2c375b5f7cf8aba76.jpg "Monkey fun!")
