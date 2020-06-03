@@ -3,7 +3,7 @@ backend:
   repo: web193/cms
 
 media_folder: static/assets
-public_folder: assets
+public_folder: blog/assets
 
 collections:
   - name: blog
